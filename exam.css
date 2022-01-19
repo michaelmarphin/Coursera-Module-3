@@ -1,0 +1,97 @@
+body {
+	background-color: #ffffff;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+#header-nav {
+	background-color: #999999;
+	margin: 0;
+	border: 0;
+	border-radius: 0;
+}
+
+#collapsable-nav {
+	background-color: #999999;
+}
+
+#logo-text {
+	font-size: 28px;
+	font-weight: bold;
+	margin-left: 22.5%;
+	margin-top: 1%;
+	margin-bottom: 0;
+}
+
+#nav-list {
+	margin-top: 2.3%;
+	font-weight: bold;
+	color: black;
+}
+
+#nav-list a {
+	color: #951C49;
+	text-align: center;
+	width: 100%;
+}
+
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+
+#nav-list a span {
+	font-size: 1.8em;
+}
+
+#phone {
+	margin-top: 5px;
+}
+
+#phone a {
+	text-align: right;
+	padding-bottom: 0;
+}
+
+#phone div {
+	color: #557c3e;
+	text-align: right;
+	padding-right: 15px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #61122f;
+}
+
+.navbar-header button.navbar-toggle {
+	margin-top: 2.3%;
+}
+
+#paragraph {
+	width: 100%;
+	color: black;
+	background-color: #999999;
+	padding: 1.5% 1.5% 1.5% 1.5%;
+	margin-bottom: 3%;
+}
+
+#text-align {
+	margin-top: 1%;
+	text-align: center;
+	font-weight: normal;
+	color: black;
+	margin-bottom: 3%;
+}
+
+#h {
+	text-align: center;
+	font-weight: bold;
+	font-size: 16px;
+}
